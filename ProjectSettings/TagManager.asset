@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Arm_Left
+  - Arm_Right
+  - Body
   layers:
   - Default
   - TransparentFX
